@@ -4,7 +4,7 @@
 2. Clone the forked Repogitory
    `git clone https://github.com/Your-GitHub-Username/github-practice`
 3. Keep your copy up to date with the original repogitory </br>
-   3.1 `git remote add upstream https://github.com/Lada496/github-practice.git`
+   3.1 `git remote add upstream https://github.com/Lada496/github-practice.git` </br>
    3.2 `git fetch upstream`
 4. Let local copy of master branch point to upstream
    `git branch --set-upstream-to=upstream/main main`
